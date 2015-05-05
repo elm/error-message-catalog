@@ -1,0 +1,3 @@
+
+foo =
+  not True "Hats"
