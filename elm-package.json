@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "Broken Elm programs to help evaluate and improve error qualitiy",
+    "repository": "https://github.com/evancz/error-message-catalog.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "2.0.1 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
