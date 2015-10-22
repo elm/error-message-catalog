@@ -1,8 +1,16 @@
+
+
 iterate n f x =
-    if n == 0
-      then x
-      else iterate(n - 1, f ,f(x))
+    if n == 0 then
+        x
 
-square x = x * x
+    else
+        iterate(n - 1, f ,f(x))
 
-foo = iterate 1 square 3
+
+square x =
+    x * x
+
+
+foo =
+    iterate 1 square 3

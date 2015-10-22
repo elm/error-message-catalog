@@ -1,5 +1,7 @@
 
 messedUpIf =
-  if True
-    then "fish"
-    else 3.1415
+    if True then
+        "fish"
+
+    else
+        3.1415
