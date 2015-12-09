@@ -1,0 +1,2 @@
+
+type u a = Z
